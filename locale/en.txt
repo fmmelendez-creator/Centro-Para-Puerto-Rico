@@ -1,0 +1,32 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_DB16DDF7_ECDA_CAB2_41D2_32871C2DF602.label = anaqueles y mesas de estudio
+panorama_DFC1D7EF_ECDA_C6D2_41D4_292E122AA8E1.label = archivo
+panorama_DFDEC89D_ECDA_4976_41E7_ABF30D3EC6A6.label = entrada
+panorama_DFC10047_ECDA_39D2_41E5_F4EF94074C03.label = entrada biblioteca
+panorama_DFC1C16A_ECDA_5BD2_41EC_211CD77156B4.label = escaleras
+panorama_DFC119D0_ECDA_4ACE_41DA_BA57E1515656.label = sala de computadoras
+panorama_DFC05248_ECDA_79DE_41E7_70B36BEA6080.label = vestíbulo biblioteca
+panorama_DFC1CBBD_ECDA_4EB6_41BF_074794148526.label = vestíbulo centro
+
+## Skin
+
+### Image
+Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19.url = skin/Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_en.jpg
+
+### Label
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83.text = Centro para Puerto Rico
+Label_22BB32F4_3075_D173_4191_C8B45B85DEB8.text = San Juan 
+
+### Multiline Text
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Centro para Puerto Rico
